@@ -4,7 +4,7 @@
 
 I am a computer science graduate from Toronto Metropolitan University, and have always had a deep interest in computer hardware, graphics, and 3D interaction. These interests led me to specializing in game / XR programming and graphics during my studies, as well as taking other courses with a focus on computer-human interaction such as computer vision and machine learning. Since graduating, I have moved on to creating several of my own projects, whether built from the ground up or leveraging modern engines such as Unity and Unreal. 
 
-A variety of my publically available work can be accessed by searching my repositories, or you can find further details along with general project overviews by visiting my website at [https://liam5650.github.io/about.html](https://liam5650.github.io/about.html). I love trying to learn new things and tackling new problems, so please feel free to direct any inquiries to my LinkedIn profile listed in the sidebar. Thank you!
+A variety of my publicly available work can be accessed by searching my repositories, or you can find further details along with general project overviews by visiting my website at [https://liam5650.github.io/about.html](https://liam5650.github.io/about.html). I love trying to learn new things and tackling new problems, so please feel free to direct any inquiries to my LinkedIn profile listed in the sidebar. Thank you!
 <!--
 **Liam5650/Liam5650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

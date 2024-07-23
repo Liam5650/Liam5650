@@ -1,10 +1,10 @@
 [![header](./banner.jpg)](https://liam5650.github.io/)
 
-# Hey, I'm Liam - a software developer from Toronto. Welcome to my GitHub profile. 👋
+# Hey, I'm Liam — a software developer from Toronto. Welcome to my GitHub profile. 👋
 
-I am a computer science graduate from Toronto Metropolitan University, and have always had a deep interest in computer hardware, graphics, and 3D interaction. These interests led me to specializing in game / XR programming and graphics during my studies, as well as taking other courses with a focus on computer-human interaction such as computer vision and machine learning. Since graduating, I have moved on to creating several of my own projects, whether built from the ground up or leveraging modern engines such as Unity and Unreal. 
+I am a computer science graduate from Toronto Metropolitan University with a deep interest in computer hardware, 3D interaction, and artificial intelligence. These interests led me to specializing in several relevant areas during my studies, such as game / XR programming, graphics programming, computer vision, and machine learning. Since graduating, I have focused on applying my skills and knowledge in both my career and personal projects. Parts of my portfolio that I would specifically like to highlight include a fully-featured VR title named [Croquet Simulator VR](https://github.com/Liam5650/Croquet-Simulator-VR), a [computer vision and machine learning project](https://github.com/Liam5650/Melody-Scriber) that converts images of piano sheet music to an electronically readable MIDI file, and a comprehensive game framework built from the ground up in Unity for [creating 2D Metroidvania games](https://github.com/Liam5650/Metroidvania-Game-Core).
 
-A variety of my publicly available work can be accessed by searching my repositories, or you can find further details along with general project overviews by visiting my website at [https://liam5650.github.io/about.html](https://liam5650.github.io/about.html). I love trying to learn new things and tackling new problems, so please feel free to direct any inquiries to my LinkedIn profile listed in the sidebar. Thank you!
+The rest of my publicly available work can be accessed by searching my repositories, and further details along with general project overviews can be found on my website at [https://liam5650.github.io/about.html](https://liam5650.github.io/about.html). I always enjoy collaborating with others to learn new things and tackle novel problems, so please feel free to direct any inquiries to my LinkedIn profile listed in the sidebar. Thank you!
 <!--
 **Liam5650/Liam5650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

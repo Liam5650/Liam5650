@@ -11,7 +11,7 @@ Notable projects include:
 - A computer vision and machine learning project that converts sheet music images into structured MIDI data
 - Earlier work in game and XR development, including a full VR title and a custom Unity framework for 2D games
 
-You can browse my pinned repositories for both newer backend-focused work and earlier graphics, CV, and game-related projects. Additional game related projects and demos can be found on my website:
+You can browse my pinned repositories for both newer backend-focused work and earlier graphics, CV, and game-related projects. Additional game related projects and demos can be found here:
 https://liam5650.github.io/
 
 I enjoy collaborating, learning from others, and tackling new technical problems. Feel free to reach out via my LinkedIn profile listed in the sidebar.

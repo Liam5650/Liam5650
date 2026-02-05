@@ -2,20 +2,16 @@
 
 # Hey, I'm Liam — a software developer from Toronto. Welcome to my GitHub profile.
 
-I am a computer science graduate from Toronto Metropolitan University with a deep interest in computer hardware, 3D interaction, and artificial intelligence. These interests led me to specializing in several relevant areas during my studies, such as game / XR programming, graphics programming, computer vision, and machine learning. Since graduating, I have focused on applying my skills and knowledge in both my career and personal projects. Projects in my portfolio that I would specifically like to highlight include a fully-featured VR title named [Croquet Simulator VR](https://github.com/Liam5650/Croquet-Simulator-VR), a [computer vision and machine learning project](https://github.com/Liam5650/Melody-Scriber) that converts an image of piano sheet music into an electronically readable MIDI file, and a comprehensive game framework built from the ground up in Unity for [creating 2D Metroidvania games](https://github.com/Liam5650/Metroidvania-Game-Core).
+I’m a computer science graduate from Toronto Metropolitan University with professional experience in AI code evaluation and a background in systems-oriented programming. During my studies, I focused on areas such as graphics programming, computer vision, machine learning, and game/XR development, which gave me strong foundations in performance-aware and interactive systems.
 
-The rest of my publicly available work can be accessed by searching my repositories, and further details along with general project overviews can be found on my website at [https://liam5650.github.io/index.html](https://liam5650.github.io/index.html). I always enjoy collaborating with others to learn new things and tackle novel problems, so please feel free to direct any inquiries to my LinkedIn profile listed in the sidebar. Thank you!
-<!--
-**Liam5650/Liam5650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since graduating, I’ve been applying these skills through both professional work and personal projects. My recent focus has been on backend and systems development, working with authentication, per-user data ownership, scheduling logic, and code correctness across larger codebases. I’m comfortable analyzing implementation trade-offs, edge cases, and performance considerations.
 
-Here are some ideas to get you started:
+Notable projects include:
+- A [backend-driven spaced repetition system](https://spaced-repetition-api.dev) (live demo) with authentication, per-user data ownership, and SM-2–based review scheduling
+- A computer vision and machine learning project that converts sheet music images into structured MIDI data
+- Earlier work in game and XR development, including a full VR title and a custom Unity framework for 2D games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can browse my pinned repositories for both newer backend-focused work and earlier graphics, CV, and game-related projects. Additional game related projects and demos can be found here:
+https://liam5650.github.io/
+
+I enjoy collaborating, learning from others, and tackling new technical problems. Feel free to reach out via my LinkedIn profile listed in the sidebar.
